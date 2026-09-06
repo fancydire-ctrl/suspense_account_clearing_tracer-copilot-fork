@@ -1,0 +1,5 @@
+source_journal,target_journal,amount,link_type
+JNL_A,JNL_B,1500,clearing
+JNL_A,JNL_C,500,reversal
+JNL_B,JNL_C,200,clearing
+JNL_D,JNL_A,1000,transfer
